@@ -9,6 +9,7 @@
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   crawl4ai-setup
    ```
 
 3. Create a `.env` file at the root with your Google API key:
